@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\hj\Desktop\자바\java_jungsuk\bitCamThreadTest"/>
+		<item value="C:\Users\hj\Desktop\자바\java_jungsuk\bitcamp2019"/>
+		<item value="C:\Users\hj\eclipse-workspace\commin"/>
+		<item value="C:\Users\hj\eclipse-workspace\JavaEx04"/>
+		<item value="C:\Users\hj\eclipse-workspace\JavaEx05"/>
+		<item value="C:\Users\hj\eclipse-workspace\ch02"/>
+		<item value="C:\Users\hj\Desktop\자바\example\chap1-fig-1-5-Hello"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\hj\eclipse-workspace"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
