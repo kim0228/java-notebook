@@ -21,9 +21,9 @@ class Account {
 		// synchronized는 현재 사용하고 있는 스레드를 제외하고 나머지 스레드들은 데이터에 접근할 수 없도록 만든 개념이다.
 		if (balance >= money) {
 			try {
-				Thread thread = Thread.currentThread();
+				Thread thread = Thread.currentThread(); // 현재 실행중인 thread를 반환한다.
 				System.out.println(thread.getName() + " 출금 금액 ->> " + money);
-				Thread.sleep(1000);
+				Thread.sleep(1000); // sleep()은 주어진 시간 동안 일시 정지 상태가 된다. 시간이 지나면 실행 대기가 된다.
 				balance -= money;
 				System.out.println(thread.getName() + " balance : " + balance);
 			} catch (Exception e) {
