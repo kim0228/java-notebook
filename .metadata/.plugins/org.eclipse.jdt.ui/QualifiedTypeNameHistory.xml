@@ -54,4 +54,7 @@
 <fullyQualifiedTypeName name="beepthread.BeepThread"/>
 <fullyQualifiedTypeName name="java.awt.Toolkit"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
+<fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
+<fullyQualifiedTypeName name="kafka.utils.json.JsonObject"/>
 </qualifiedTypeNameHistroy>
