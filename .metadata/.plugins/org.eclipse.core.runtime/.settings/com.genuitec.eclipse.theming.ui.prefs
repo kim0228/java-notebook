@@ -6,8 +6,13 @@ eclipse.preferences.version=1
 iconcolormode=primary
 iconreplacement=true
 includeThemingInOomph=false
+<<<<<<< HEAD
 last.download.attempt.time=1570278541356
 lastConfiguration=1564748094150
+=======
+last.download.attempt.time=1566363870974
+lastConfiguration=1566363858464
+>>>>>>> 8505695d4ccd298d3b26b8c795a5ea692d13806a
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray

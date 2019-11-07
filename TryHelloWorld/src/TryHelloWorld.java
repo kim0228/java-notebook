@@ -21,7 +21,9 @@ public class TryHelloWorld {
 		// TODO Auto-generated method stub
 		int num1,num2;
 		Scanner sc = new Scanner(System.in);
+		System.out.println("첫번째 숫자를 입력하세요.");
 		num1 = sc.nextInt();
+		System.out.println("두번째 숫자를 입력하세요.");
 		num2 = sc.nextInt();
 		TryHelloWorld c = new TryHelloWorld();
 		System.out.println(Arrays.toString(c.gcdlcm(num1, num2)));
